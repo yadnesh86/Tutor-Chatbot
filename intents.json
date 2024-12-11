@@ -1,0 +1,1130 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": [
+      "Hi",
+      "Hello",
+      "Hey",
+      "Good day",
+      "How are you?"
+    ],
+    "responses": [
+      "Hello!",
+      "Good to see you!",
+      "Hi there, how can I help?"
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "farewell",
+    "patterns": [
+      "Goodbye",
+      "Bye",
+      "See you later",
+      "Talk to you later"
+    ],
+    "responses": [
+      "Sad to see you go :(",
+      "Goodbye!",
+      "Come back soon!"
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "creator",
+    "patterns": [
+      "Who created you?",
+      "Who is your developer?",
+      "Who made you?"
+    ],
+    "responses": [
+      "I was created by Humans."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "identity",
+    "patterns": [
+      "What is your name?",
+      "What should I call you?",
+      "Who are you?"
+    ],
+    "responses": [
+      "You can call me Mind Reader. But im Educational Tutor and I'm a Chatbot."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "courses",
+    "patterns": [
+      "Do you offer any courses?",
+      "Do you provide courses?"
+    ],
+    "responses": [
+      "No i dont provide any courses."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "Find_Courses",
+    "patterns": [
+      "Where can i get top online courses?",
+      "online courses resources."
+    ],
+    "responses": [
+      "You can find top online courses on apps like: Udemy, Coursera"
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "introduction",
+    "patterns": [
+      "What is Educational Tutor?",
+      "Can you tell me about Educational Tutor?",
+      "What do you do?"
+    ],
+    "responses": [
+      "Educational Tutor is here to assist you with Guide you on Educational Tools and Technology."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "study_tips",
+    "patterns": [
+      "Can you help me study?",
+      "How can I improve my study habits?",
+      "Give me tips for effective learning."
+    ],
+    "responses": [
+      "Effective study involves setting clear goals, staying organized, and taking regular breaks. Educational Tutor can guide you step-by-step on how to excel."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "quiz_learning",
+    "patterns": [
+      "give me some quizes.",
+      "Do you provide quizes?"
+    ],
+    "responses": [
+      "Well im not able to give you quiz "
+    ]
+  },
+  {
+    "tag": "fees_and_cost",
+    "patterns": [
+      "Is Educational Tutor free?",
+      "Do I have to pay for this service?",
+      "What are the charges for using this?"
+    ],
+    "responses": [
+      "Educational Tutor is free to use! It's designed to make quality education accessible to everyone."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "availability",
+    "patterns": [
+      "Are you available 24/7?",
+      "When can I use Educational Tutor?",
+      "What are your working hours?"
+    ],
+    "responses": [
+      "Educational Tutor is available 24/7 to assist you with your queries anytime you need help!"
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "general_help",
+    "patterns": [
+      "I need help.",
+      "Can you assist me?",
+      "What can you help with?"
+    ],
+    "responses": [
+      "I'm here to help with your studies, and Guide to Educational tools & Innovation. How can I assist you today?"
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "college_comparison",
+    "patterns": [
+      "How does this college compare to others?",
+      "Is this a good college?",
+      "Should I choose this college?"
+    ],
+    "responses": [
+      "Choosing the right college depends on your preferences and goals."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "motivation",
+    "patterns": [
+      "I feel stuck.",
+      "I can't focus on my studies.",
+      "How do I stay motivated?"
+    ],
+    "responses": [
+      "Stay positive and take it one step at a time. Educational Tutor is here to guide you through your learning journey."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "subjects",
+    "patterns": [
+      "what are the subjects.",
+      "What do you do?",
+      "Which subject do you cover."
+    ],
+    "responses": [
+      "Educational tutor here to assist you on Educational Tools and Technology."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "benefits",
+    "patterns": [
+      "What are the benefits of Educational Tutor.",
+      "How can educational tutor help me."
+    ],
+    "responses": [
+      "Educational Tutor helps to increase your learning efficiency and supports you education."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "Motivation_tips",
+    "patterns": [
+      "How do i stay motivated to study?",
+      "Can you motivate me?",
+      "Motivate me to study."
+    ],
+    "responses": [
+      "Remember why you started, Schedule your study time, set achivable goals, and dont forget to celebrate small winnings, Educational Tutor is here to cheer you on!."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "Emerging_Trends",
+    "patterns": [
+      "What are the latest trends in Educational Technology?",
+      "Tell me about Emerging educational Tools"
+    ],
+    "responses": [
+      "AI, AR/VR, and gamification are some of the top trends shaping education",
+      "Emerging tools like virtual labs and adaptive learning platforms are making education more engaging."
+    ],
+    "context_set": ""
+  },
+  {
+    "tag": "metaverse_ineducation",
+    "patterns": ["what is metaverse role in education?", "How does the metaverse impact learning?", "metaverse", "what is metaverse"],
+    "responses":["The metaverse creates virtual campuses for collaboration and imersive learning.", "It enables students to attend the letcures and interact with peers in a virtual environment."],
+    "context_set": ""
+  },
+  {
+    "tag": "wearable_technology_in_education",
+    "patterns": ["What are wearable technologies in education?", "Can wearables improve learning?"],
+    "responses": ["Wearables like VR headsets make immersive learning possible.", "They also track physical activity and engagement levels during lessons."],
+    "context_set": ""
+  },
+  {
+    "tag": "smart_classromms",
+    "patterns": ["smart classrooms", "what are smart classrooms?", "How do IoT and AI help in classrooms?"],
+    "responses": ["Smart classrooms use IoT and AI to create adaptive, tech-enabled learning spaces.", "Interactive whiteboards and connected devices make lessons dynamic and engaging."]
+  },
+  {
+    "tag": "ai_in_education",
+    "patterns": ["ai", "ai in education", "how does ai impact in education", "can ai improve teaching methods"],
+    "responses": ["AI tools personalize learning by adapting content to each students pace.", "Platforms like Grammarly and adaptive quizzes enhance learning efficiency."],
+    "context_set": ""
+  },
+  {
+    "tag": "carrer_guidance",
+    "patterns": ["What should i do after graduation.", "carrer guidance", "How do i choose a carrer path?", "What is the best way to explore job opportunities"],
+    "responses": ["Identify your intrests and explore carrer options in those areas", "Internships and networking can help you understand the job market", "Platforms like LinkedIn and Glassdoor are great for job opportunities"],
+    "context_set": ""
+  },
+  {
+    "tag": "skill_development",
+    "patterns": ["Skill developmennt", "How can i improve my skills", "What are the best ways to learn new things?", "Suggest Platforms for skills development"],
+    "responses": ["Use platforms like Coursera, Udemy, and Codecademy for learning new skills."],
+    "context_set": ""
+  },
+  {
+    "tag": "scholarships",
+    "patterns": [
+        "Tell me about scholarships.",
+        "What scholarships are available?",
+        "How can I apply for scholarships?",
+        "Scholarship opportunities?",
+        "Where can I find scholarships?"
+    ],
+    "responses": [
+        "You can explore scholarship opportunities on platforms like Scholarships.com, Chegg, or your local university's website.",
+        "Visit government or private websites for scholarship listings. Many universities also have dedicated portals.",
+        "Reach out to the financial aid office at your institution for scholarship advice."
+    ]
+  },
+  {
+    "tag": "Learning_tools",
+    "patterns": ["Can you suggest app for studying", "apps for studying", "Learning tools for students"],
+    "responses": ["Apps like Notion, OneNote are great for organizing your notes and study plans.", "For collaborative learning use tools like Google Workspace and Microsoft Teams."],
+    "context_set": ""
+  },
+    {
+        "tag": "course_recommendation",
+        "patterns": [
+            "What courses should I take for data science?",
+            "Can you recommend some courses for AI?",
+            "Suggest me courses for web development.",
+            "What should I study to become a machine learning engineer?",
+            "What are the best courses for learning data analytics?",
+            "What courses do you recommend for cloud computing?"
+        ],
+        "responses": [
+            "For Data Science, you should focus on Python, statistics, machine learning, and visualization tools like Tableau or Power BI.",
+            "If you're interested in AI, start with courses on Neural Networks, Deep Learning, and Natural Language Processing.",
+            "For web development, learn HTML, CSS, JavaScript, and frameworks like React or Angular. Back-end skills like Node.js or Django are also helpful.",
+            "To become a machine learning engineer, study Python, linear algebra, calculus, and frameworks like TensorFlow or PyTorch.",
+            "For Data Analytics, start with learning Python, SQL, data wrangling, and data visualization tools like Power BI and Tableau.",
+            "For Cloud Computing, look for courses that focus on AWS, Azure, Google Cloud Platform, and DevOps principles."
+        ]
+    },
+    {
+        "tag": "exam_preparation",
+        "patterns": [
+            "How do I prepare for competitive exams?",
+            "What are the best tips for acing my exams?",
+            "Suggest study strategies for board exams.",
+            "How can I improve my focus while studying for exams?",
+            "What should I do one week before my exam?",
+            "Can you help me with time management for exams?"
+        ],
+        "responses": [
+            "Prepare a study schedule, focus on time management, and solve previous year's papers for practice.",
+            "Take regular breaks, use flashcards for quick revision, and practice active recall techniques.",
+            "For board exams, prioritize NCERT books, understand the basics, and practice writing timed mock tests.",
+            "Eliminate distractions, use techniques like Pomodoro, and focus on studying in a quiet environment.",
+            "One week before the exam, focus on reviewing key concepts and practice with mock exams. Don't cram at the last minute.",
+            "Use tools like the Pomodoro Technique to manage time effectively. Set small study goals to maintain focus."
+        ]
+    },
+    {
+        "tag": "study_resources",
+        "patterns": [
+            "Can you suggest good online resources for learning programming?",
+            "Where can I find free study materials for college?",
+            "Tell me about the best platforms for e-learning.",
+            "What are some good websites for academic research?",
+            "Can you recommend any books for learning algorithms?",
+            "Where can I find practice problems for coding interviews?"
+        ],
+        "responses": [
+            "For programming, check out freeCodeCamp, Codecademy, or LeetCode.",
+            "Khan Academy, Coursera, and edX offer free or affordable courses across various subjects.",
+            "For e-learning, platforms like Udemy, LinkedIn Learning, and Skillshare are excellent choices.",
+            "Google Scholar, ResearchGate, and JSTOR are great resources for academic research.",
+            "For algorithms, books like 'Introduction to Algorithms' by Cormen or 'Algorithms' by Sedgewick are great resources.",
+            "For coding interview prep, visit websites like HackerRank, LeetCode, and InterviewBit for practice problems."
+        ]
+    },
+    {
+        "tag": "programming_help",
+        "patterns": [
+            "How do I debug my Python code?",
+            "What are the best practices in programming?",
+            "Can you explain recursion in simple terms?",
+            "What is the difference between an array and a list in programming?",
+            "How do I implement a binary search in Python?",
+            "What is object-oriented programming?"
+        ],
+        "responses": [
+            "Debugging in Python involves using tools like pdb or simply adding print statements to trace variables.",
+            "Follow best practices like writing clean, modular code, commenting your code, and using version control like Git.",
+            "Recursion is when a function calls itself to solve smaller instances of a problem, like finding the factorial of a number.",
+            "An array is a fixed-size data structure that contains elements of the same type, while a list is dynamic and can hold elements of different types.",
+            "In Python, you can implement a binary search by recursively dividing the list into halves until you find the target element.",
+            "Object-Oriented Programming (OOP) focuses on objects, which are instances of classes, and emphasizes inheritance, polymorphism, and encapsulation."
+        ]
+    },
+    {
+        "tag": "career_guidance",
+        "patterns": [
+            "What career options are available after studying computer science?",
+            "How do I build a career in AI and ML?",
+            "What are the top companies hiring data scientists?",
+            "Can you suggest career options after completing my MBA?",
+            "What career paths are available for engineers?",
+            "What are the job opportunities in cybersecurity?"
+        ],
+        "responses": [
+            "After computer science, you can work as a software engineer, data scientist, system analyst, or cybersecurity specialist.",
+            "To build a career in AI and ML, focus on gaining expertise in Python, TensorFlow, and AI algorithms, and work on real-world projects.",
+            "Top companies hiring data scientists include Google, Amazon, Microsoft, Facebook, and consulting firms like McKinsey and Deloitte.",
+            "After an MBA, explore careers in consulting, finance, marketing, operations, or entrepreneurship.",
+            "Engineers have diverse career options in software development, hardware engineering, robotics, and system architecture.",
+            "In cybersecurity, you can work as an ethical hacker, security analyst, or penetration tester, helping to protect digital assets."
+        ]
+    },
+    {
+        "tag": "scholarship_guidance",
+        "patterns": [
+            "Are there scholarships for international students?",
+            "What are the eligibility criteria for government scholarships?",
+            "How do I apply for a research grant?",
+            "Can you suggest scholarships for engineering students?",
+            "Tell me about scholarships for students pursuing a master's degree.",
+            "How can I apply for an undergraduate scholarship?"
+        ],
+        "responses": [
+            "Yes, there are many scholarships for international students like Fulbright, Chevening, and DAAD scholarships.",
+            "Government scholarships often require a minimum academic score and proof of financial need. Check the official portal for details.",
+            "To apply for a research grant, prepare a strong proposal, include your objectives, and submit it to funding agencies like NSF or Horizon Europe.",
+            "For engineering students, scholarships like IEEE, ASME, and specific state-level engineering scholarships are worth exploring.",
+            "For master's degrees, scholarships like the Erasmus Mundus program and the Rhodes Scholarship are highly competitive.",
+            "Undergraduate scholarships can be applied for through university portals, government scholarship schemes, and private foundations."
+        ]
+    },
+    {
+        "tag": "study_abroad",
+        "patterns": [
+            "How do I apply for a master's degree abroad?",
+            "What are the best countries for higher education?",
+            "What exams do I need to take for studying in the US?",
+            "Tell me about student visas for Canada.",
+            "What are the steps to apply for a university in the UK?",
+            "How can I find scholarships for studying abroad?"
+        ],
+        "responses": [
+            "To apply for a master's abroad, prepare your transcripts, SOP, and recommendation letters, and apply directly to universities.",
+            "The best countries for higher education are the USA, UK, Germany, Canada, and Australia, depending on your field of interest.",
+            "For studying in the US, you'll need to take exams like GRE or GMAT and English proficiency tests like TOEFL or IELTS.",
+            "For a Canadian student visa, you need to provide an admission letter, proof of funds, and medical records.",
+            "In the UK, you will need to apply through UCAS for undergrad and directly for master's programs. Prepare for exams like IELTS or GRE where required.",
+            "Search for scholarships on university websites, platforms like ScholarshipPortal, and government scholarships specific to each country."
+        ]
+    },
+    {
+        "tag": "technology_updates",
+        "patterns": [
+            "What are the latest trends in AI?",
+            "Tell me about advancements in quantum computing.",
+            "What is the future of blockchain technology?",
+            "What new technologies should I learn in 2024?",
+            "Can you explain the concept of 5G technology?",
+            "What are the emerging trends in augmented reality?"
+        ],
+        "responses": [
+            "The latest trends in AI include generative AI, multimodal models, and AI ethics frameworks.",
+            "Quantum computing is advancing with breakthroughs in error correction and the development of quantum processors by IBM and Google.",
+            "Blockchain is evolving with applications in DeFi, NFTs, and supply chain transparency.",
+            "In 2024, focus on technologies like AI/ML, cloud computing, cybersecurity, and blockchain development.",
+            "5G technology will enable faster internet speeds and is expected to improve IoT applications and autonomous vehicles.",
+            "Emerging trends in augmented reality include interactive experiences for retail, education, and virtual collaboration."
+        ]
+    },
+    {
+        "tag": "learning_methods",
+        "patterns": [
+            "What are the best methods to learn new programming languages?",
+            "How do I improve my memory for studying?",
+            "Can you explain the concept of spaced repetition?",
+            "What is active recall and how do I use it?",
+            "How can I learn effectively using visual aids?",
+            "What are the benefits of group study?"
+        ],
+        "responses": [
+            "To learn a new programming language, start with the basics, then build small projects. Practice consistently and ask questions on forums.",
+            "Improve memory by using techniques like spaced repetition, active recall, and visual aids like diagrams and mind maps.",
+            "Spaced repetition is a learning technique where you review material at increasing intervals to improve long-term retention.",
+            "Active recall involves testing yourself on the material you're learning, instead of just passively reviewing it."
+            
+        ]
+      },
+      {
+        "tag": "programming_languages",
+        "patterns": [
+            "What is the best programming language to learn in 2024?",
+            "How do I choose between Python and JavaScript?",
+            "Which programming languages are in demand for web development?",
+            "Can you explain the differences between Java and C++?",
+            "How do I start learning C#?",
+            "What is the future of Rust programming language?"
+        ],
+        "responses": [
+            "In 2024, Python, JavaScript, and Rust are among the most popular and in-demand programming languages.",
+            "Python is great for beginners and data science, while JavaScript is crucial for web development. It depends on the field you're interested in.",
+            "For web development, HTML, CSS, JavaScript, and backend languages like Node.js or Python are highly sought after.",
+            "Java is object-oriented and used for enterprise applications, while C++ is more performance-oriented and used for system-level programming.",
+            "To start learning C#, check out Microsoft’s official tutorials, and try building simple desktop or web applications.",
+            "Rust is gaining popularity in system programming due to its memory safety features and is expected to grow in use for web and embedded systems."
+        ]
+    },
+    {
+        "tag": "student_motivation",
+        "patterns": [
+            "How do I stay motivated while studying?",
+            "What are some tips to overcome procrastination?",
+            "How can I stay focused during long study sessions?",
+            "Can you give me some advice on boosting my productivity?",
+            "What are some strategies for improving my work-life balance as a student?",
+            "How do I handle stress during exams?"
+        ],
+        "responses": [
+            "To stay motivated, set clear goals, break tasks into smaller steps, and reward yourself after completing each task.",
+            "To overcome procrastination, start with small, easy tasks to build momentum, and avoid distractions by creating a dedicated study space.",
+            "Stay focused by using techniques like Pomodoro, where you work for 25 minutes and take a 5-minute break.",
+            "Boost productivity by prioritizing your tasks, using time management techniques, and eliminating distractions like social media.",
+            "To improve work-life balance, schedule time for relaxation and hobbies. Balance study with social activities to avoid burnout.",
+            "Dealing with exam stress requires good time management, regular breaks, and a healthy lifestyle. Practice mindfulness or meditation to stay calm."
+        ]
+    },
+    {
+        "tag": "online_courses",
+        "patterns": [
+            "What are the best websites for online courses?",
+            "Where can I find free online courses?",
+            "Can you recommend any paid courses for machine learning?",
+            "How do I choose the right online course for Python?",
+            "What is the best platform for learning data science?",
+            "Are there any good certifications for web development?"
+        ],
+        "responses": [
+            "Some of the best platforms for online courses are Coursera, Udemy, edX, and LinkedIn Learning.",
+            "You can find free online courses on websites like Khan Academy, Coursera, and edX, with many institutions offering free resources.",
+            "For machine learning, you can check out specialized courses on platforms like Coursera (Stanford’s ML course) or Udacity’s nanodegrees.",
+            "To choose the right Python course, look for one with hands-on projects, clear explanations, and real-world applications.",
+            "For data science, platforms like Coursera, edX, and DataCamp offer high-quality courses. Look for courses that teach Python, statistics, and machine learning.",
+            "There are many great certifications for web development, such as those offered by freeCodeCamp, Coursera, and Udemy for front-end and back-end development."
+        ]
+    },
+    {
+        "tag": "career_development",
+        "patterns": [
+            "How do I find my passion and choose a career?",
+            "What are the steps to building a successful career?",
+            "Can you help me with career planning?",
+            "What skills should I develop to advance in my career?",
+            "What are the most sought-after skills for professionals in 2024?",
+            "How do I network effectively for career growth?"
+        ],
+        "responses": [
+            "To find your passion, explore different fields, talk to professionals, and consider your strengths and interests. Career counseling can also help.",
+            "Building a successful career involves setting long-term goals, continuous learning, networking, and gaining relevant experience.",
+            "Career planning involves assessing your skills, identifying your goals, and making a roadmap to achieve them. Researching industries and career paths can help.",
+            "To advance your career, develop skills like leadership, communication, problem-solving, and expertise in your specific field.",
+            "In 2024, sought-after skills include AI/ML expertise, cloud computing, cybersecurity, data analysis, and digital marketing.",
+            "Networking effectively involves attending industry events, joining professional organizations, and connecting with peers and mentors on LinkedIn."
+        ]
+    },
+    {
+        "tag": "study_abroad_experience",
+        "patterns": [
+            "What is it like studying abroad?",
+            "Can you tell me about the challenges of studying in a foreign country?",
+            "What should I expect when studying in the US as an international student?",
+            "What are the pros and cons of studying abroad?",
+            "How can I adjust to studying abroad?",
+            "What are the best countries for international students?"
+        ],
+        "responses": [
+            "Studying abroad provides exposure to new cultures, diverse educational systems, and valuable networking opportunities.",
+            "Challenges include adapting to different educational systems, homesickness, language barriers, and managing finances in a new country.",
+            "As an international student in the US, expect a diverse student body, a focus on research and practical application, and challenges related to student visas.",
+            "Pros of studying abroad include gaining international experience, learning a new language, and enhancing your resume. Cons may include higher tuition fees and being far from family.",
+            "Adjusting to studying abroad requires time management, seeking support from local student organizations, and staying connected with home.",
+            "Countries like the US, UK, Canada, Australia, and Germany are popular for international students due to their high-quality education systems."
+        ]
+    },
+    {
+        "tag": "study_techniques",
+        "patterns": [
+            "What is the best way to learn a new language?",
+            "How do I improve my problem-solving skills?",
+            "Can you recommend any effective study techniques for STEM subjects?",
+            "What are some memory techniques for studying?",
+            "How can I improve my critical thinking skills?",
+            "How do I study efficiently for long-term retention?"
+        ],
+        "responses": [
+            "The best way to learn a new language is through immersion, practicing speaking with native speakers, and using apps like Duolingo or Babbel.",
+            "To improve problem-solving skills, practice regularly, break down complex problems into smaller parts, and use logic-based exercises like puzzles.",
+            "For STEM subjects, active problem-solving, using spaced repetition, and practicing past exam questions are highly effective study techniques.",
+            "Memory techniques like mnemonics, visualization, and the method of loci can significantly improve recall for studying.",
+            "Improving critical thinking involves questioning assumptions, practicing analysis, and engaging in discussions that challenge your perspective.",
+            "To study efficiently for long-term retention, use spaced repetition, review material regularly, and focus on understanding concepts instead of rote memorization."
+        ]
+    },
+    {
+        "tag": "academic_integrity",
+        "patterns": [
+            "What is academic integrity?",
+            "Why is plagiarism bad?",
+            "How can I avoid plagiarism in my assignments?",
+            "What are the consequences of cheating in exams?",
+            "What should I do if I find out a classmate is cheating?",
+            "How do I cite sources properly in my research paper?"
+        ],
+        "responses": [
+            "Academic integrity refers to maintaining honesty and fairness in all academic work, including avoiding plagiarism and cheating.",
+            "Plagiarism is bad because it involves taking someone else's work and passing it off as your own, which is dishonest and unethical.",
+            "To avoid plagiarism, always cite your sources, paraphrase information properly, and use quotation marks when directly quoting someone’s work.",
+            "The consequences of cheating can include failing the course, suspension, or even expulsion from the institution.",
+            "If you find out a classmate is cheating, it's important to report it to the appropriate academic authorities to maintain fairness in the academic community.",
+            "To cite sources properly, follow the citation style required (e.g., APA, MLA, Chicago) and ensure you provide complete and accurate bibliographic details."
+        ]
+    },
+    {
+      "tag": "study_groups",
+      "patterns": [
+          "What are the benefits of studying in a group?",
+          "How can I form an effective study group?",
+          "How do I manage conflicts in a study group?",
+          "What are some strategies for a productive study group session?",
+          "Can online study groups be as effective as in-person ones?",
+          "How do I find study partners for specific subjects?"
+      ],
+      "responses": [
+          "Study groups promote collaboration, motivation, and diverse perspectives, which can enhance learning.",
+          "To form an effective study group, gather people who are motivated, have a clear focus, and contribute equally to discussions.",
+          "To manage conflicts in a study group, establish ground rules, ensure communication is respectful, and address issues early on.",
+          "Effective study group strategies include dividing topics, teaching each other, using active recall, and regularly reviewing past materials.",
+          "Yes, online study groups can be effective, especially with tools like Zoom, Google Meet, or shared documents for collaboration.",
+          "You can find study partners through online forums, social media study groups, or by reaching out to classmates or alumni."
+      ]
+  },
+  {
+      "tag": "time_management",
+      "patterns": [
+          "How can I improve my time management skills?",
+          "What is the best way to schedule my day as a student?",
+          "Can you help me create a study schedule?",
+          "How do I avoid procrastination with time management?",
+          "What are some time management tools for students?",
+          "How can I balance schoolwork with personal life?"
+      ],
+      "responses": [
+          "To improve time management, prioritize tasks, use a calendar or planner, and break down large tasks into smaller, manageable ones.",
+          "The best way to schedule your day is to block out time for studying, rest, exercise, and social activities to maintain balance.",
+          "You can create a study schedule by setting realistic goals, blocking specific times for each subject, and regularly reviewing your progress.",
+          "To avoid procrastination, break tasks into smaller, actionable steps, use the Pomodoro technique, and eliminate distractions.",
+          "Popular time management tools for students include Trello, Google Calendar, Todoist, and apps like Focus Booster for Pomodoro.",
+          "Balancing schoolwork with personal life requires setting boundaries, using time effectively, and making time for self-care and hobbies."
+      ]
+  },
+  {
+      "tag": "research_skills",
+      "patterns": [
+          "How do I conduct effective academic research?",
+          "What are the best research databases for students?",
+          "How do I evaluate sources for my research paper?",
+          "Can you help me write a thesis statement?",
+          "What are some tips for writing a literature review?",
+          "How can I improve my research writing skills?"
+      ],
+      "responses": [
+          "Effective academic research involves defining a clear question, using credible sources, and systematically gathering information.",
+          "Popular research databases include Google Scholar, JSTOR, PubMed, and library-specific databases that provide access to peer-reviewed articles.",
+          "To evaluate sources, check for credibility, author qualifications, publication date, and relevance to your research topic.",
+          "A strong thesis statement clearly outlines your research question and the stance you will take or the solution you will propose.",
+          "Writing a literature review requires summarizing and synthesizing existing research, highlighting gaps in knowledge, and identifying trends or contradictions.",
+          "To improve research writing, practice critical thinking, learn proper citation techniques, and focus on presenting arguments logically."
+      ]
+  },
+  {
+      "tag": "graduate_school",
+      "patterns": [
+          "How do I prepare for graduate school?",
+          "What are the benefits of going to graduate school?",
+          "How do I choose the right graduate program?",
+          "What are the application requirements for grad school?",
+          "What is the difference between a master’s and a PhD program?",
+          "How do I manage the workload in graduate school?"
+      ],
+      "responses": [
+          "To prepare for graduate school, research programs thoroughly, improve relevant academic skills, and start preparing for entrance exams or interviews.",
+          "The benefits of going to graduate school include specialized knowledge, networking opportunities, and improved career prospects in certain fields.",
+          "To choose the right graduate program, consider your career goals, faculty expertise, research opportunities, and location.",
+          "Graduate school application requirements typically include a bachelor's degree, a strong GPA, recommendation letters, standardized test scores, and a personal statement.",
+          "Master’s programs are generally more career-focused, while PhD programs are research-intensive and focus on original contributions to a field of study.",
+          "Managing the workload in graduate school requires effective time management, regular breaks, setting clear priorities, and maintaining a balanced lifestyle."
+      ]
+  },
+  {
+      "tag": "academic_resources",
+      "patterns": [
+          "What resources are available to students for academic support?",
+          "Where can I find study guides for exams?",
+          "Are there any online tutoring services for students?",
+          "How can I access free textbooks online?",
+          "What academic support does my university offer?",
+          "How do I find academic journals for my research?"
+      ],
+      "responses": [
+          "Many universities offer academic support through tutoring centers, writing assistance, study groups, and counseling services.",
+          "Study guides for exams can be found online through platforms like Quizlet, or by checking if your school provides past exam papers or review sessions.",
+          "Online tutoring services include platforms like Chegg, Tutor.com, and Khan Academy, which offer academic help in various subjects.",
+          "You can access free textbooks through websites like OpenStax, Project Gutenberg, and Google Books, which offer textbooks and research papers for free.",
+          "Most universities offer academic resources like tutoring, libraries, writing centers, and workshops to help students succeed academically.",
+          "Academic journals can be found through databases like Google Scholar, JSTOR, PubMed, or your university’s library portal."
+      ]
+  },
+  {
+      "tag": "learning_styles",
+      "patterns": [
+          "What are the different types of learning styles?",
+          "How do I figure out my learning style?",
+          "Can you recommend study methods for visual learners?",
+          "How can auditory learners improve their study habits?",
+          "What are the best learning strategies for kinesthetic learners?",
+          "How do I adapt my study habits to my learning style?"
+      ],
+      "responses": [
+          "The main learning styles are visual, auditory, reading/writing, and kinesthetic. Each person has preferences for how they learn best.",
+          "To figure out your learning style, pay attention to how you learn best—whether you prefer to read, listen, or engage physically with the material.",
+          "For visual learners, using diagrams, charts, and videos can help reinforce learning. Color-coding notes also helps with memorization.",
+          "Auditory learners benefit from listening to podcasts, audiobooks, or recording lectures. Discussing the material aloud can also enhance understanding.",
+          "Kinesthetic learners should engage in hands-on activities, such as building models, conducting experiments, or using interactive learning tools.",
+          "To adapt your study habits, find methods that align with your learning style, whether through visual aids, discussion, or hands-on experiences."
+      ]
+  },
+  {
+      "tag": "study_tips_for_exams",
+      "patterns": [
+          "What are some tips for preparing for exams?",
+          "How do I study effectively for a final exam?",
+          "Can you help me with last-minute exam preparation?",
+          "What should I focus on when studying for an important exam?",
+          "How do I deal with exam anxiety?",
+          "What are the best strategies for taking exams?"
+      ],
+      "responses": [
+          "For exam preparation, start early, break down the material into manageable chunks, and use active recall techniques to reinforce memory.",
+          "For a final exam, focus on understanding key concepts, review past exams, and prioritize topics that are most heavily weighted in the exam.",
+          "For last-minute exam prep, focus on key concepts, use flashcards for quick review, and get a good night’s sleep before the exam.",
+          "When studying for an important exam, prioritize the most challenging material and try to test yourself on the content frequently.",
+          "To deal with exam anxiety, practice relaxation techniques, manage your time effectively, and avoid cramming the night before.",
+          "Effective exam strategies include reading the instructions carefully, managing your time during the test, and reviewing your answers before submitting."
+      ]
+  },
+  {
+    "tag": "academic_integrity",
+    "patterns": [
+        "What is academic integrity?",
+        "Why is academic integrity important?",
+        "How can I avoid plagiarism in my assignments?",
+        "What should I do if I see academic dishonesty?",
+        "How can I cite my sources properly?",
+        "What are the consequences of academic dishonesty?"
+    ],
+    "responses": [
+        "Academic integrity refers to maintaining honesty and fairness in all academic work, including avoiding cheating, plagiarism, and falsifying data.",
+        "Maintaining academic integrity is crucial for upholding the value of your education and ensuring that all work is original and properly cited.",
+        "To avoid plagiarism, always cite your sources, paraphrase properly, and use quotation marks when directly quoting someone’s work.",
+        "If you witness academic dishonesty, you should report it to your instructor or the institution's academic integrity office according to their policies.",
+        "You can cite sources using styles like APA, MLA, or Chicago. Many citation tools like Zotero and EasyBib can help you with this.",
+        "Consequences of academic dishonesty can include failing grades, suspension, or even expulsion depending on the severity of the violation."
+    ]
+},
+{
+    "tag": "online_learning",
+    "patterns": [
+        "What are the benefits of online learning?",
+        "How do I stay motivated in online courses?",
+        "What are the best online platforms for learning?",
+        "Can online education be as effective as in-person learning?",
+        "How do I manage distractions while learning online?",
+        "How do I interact with professors in online courses?"
+    ],
+    "responses": [
+        "Online learning offers flexibility, a wide variety of courses, and the ability to study at your own pace, which can be especially helpful for busy students.",
+        "To stay motivated in online courses, set clear goals, create a structured study schedule, and engage actively in discussions and assignments.",
+        "Popular online learning platforms include Coursera, edX, Udemy, Khan Academy, and LinkedIn Learning, which offer a wide range of courses.",
+        "Yes, online education can be just as effective as in-person learning, especially when using interactive tools, videos, and forums to enhance engagement.",
+        "To manage distractions, create a dedicated study space, limit social media usage, and use techniques like the Pomodoro method to stay focused.",
+        "You can interact with professors in online courses through discussion boards, email, and live webinars or office hours depending on the platform."
+    ]
+},
+{
+    "tag": "college_essays",
+    "patterns": [
+        "How do I write a college application essay?",
+        "What should I include in my personal statement?",
+        "How do I make my essay stand out?",
+        "What are some tips for writing a compelling essay?",
+        "How do I structure my college application essay?",
+        "Can you help me brainstorm ideas for my personal statement?"
+    ],
+    "responses": [
+        "To write a college application essay, focus on telling a compelling, personal story that highlights your strengths and uniqueness.",
+        "Your personal statement should include your experiences, aspirations, and reasons for choosing the particular college or program.",
+        "To make your essay stand out, be authentic, avoid clichés, and provide specific examples that showcase your character and abilities.",
+        "Writing a compelling essay involves being clear, concise, and reflective. Focus on a central theme and make sure your voice comes through.",
+        "A college application essay typically has an introduction, body paragraphs with clear points, and a conclusion that ties everything together.",
+        "To brainstorm ideas, reflect on your experiences, challenges you've overcome, and what excites you about the future. Think about how those elements connect to your chosen field of study."
+    ]
+},
+{
+    "tag": "study_abroad",
+    "patterns": [
+        "How can I study abroad?",
+        "What are the benefits of studying abroad?",
+        "What are the best countries for international students?",
+        "How do I apply for a student visa?",
+        "What should I prepare before studying abroad?",
+        "How do I adjust to studying in a foreign country?"
+    ],
+    "responses": [
+        "To study abroad, you can start by researching programs, preparing necessary documents, and applying for visas and scholarships.",
+        "Studying abroad offers cultural exposure, personal growth, and the opportunity to gain global perspectives on education.",
+        "Popular countries for international students include the US, UK, Canada, Australia, and Germany, depending on your field of interest.",
+        "To apply for a student visa, you typically need proof of enrollment, financial support, and a valid passport. Check with the country’s embassy for specific requirements.",
+        "Before studying abroad, prepare by researching the country’s culture, learning about local laws and customs, and ensuring your health and travel documents are in order.",
+        "Adjusting to studying in a foreign country may take time. Be open to new experiences, seek out international student support services, and keep in touch with home for emotional support."
+    ]
+},
+{
+    "tag": "student_wellbeing",
+    "patterns": [
+        "How do I take care of my mental health as a student?",
+        "What are some ways to relieve stress during exams?",
+        "How can I improve my overall wellbeing as a student?",
+        "What should I do if I'm feeling overwhelmed with schoolwork?",
+        "How can I avoid burnout while studying?",
+        "What are some resources for student mental health?"
+    ],
+    "responses": [
+        "Taking care of your mental health involves regular exercise, maintaining a balanced diet, staying connected with friends and family, and taking breaks when needed.",
+        "During exams, you can relieve stress by taking regular breaks, practicing mindfulness, exercising, and ensuring adequate sleep.",
+        "To improve overall wellbeing, engage in physical activity, practice relaxation techniques, and maintain a healthy balance between school, work, and personal life.",
+        "If you're feeling overwhelmed, try breaking tasks into smaller parts, seeking support from friends or counselors, and setting aside time for relaxation.",
+        "To avoid burnout, balance your academic workload, prioritize self-care, avoid procrastinating, and make time for activities that recharge you.",
+        "Many universities provide mental health resources such as counseling services, workshops, and peer support programs to help students cope with stress and anxiety."
+    ]
+},
+{
+    "tag": "career_advice",
+    "patterns": [
+        "How do I start preparing for my career while still in college?",
+        "What skills are important to develop for my future career?",
+        "How can I find internship opportunities?",
+        "What should I include in my resume?",
+        "How do I network effectively for job opportunities?",
+        "What are some tips for acing a job interview?"
+    ],
+    "responses": [
+        "To prepare for your career while in college, focus on gaining relevant skills, networking with professionals, and seeking internships or part-time work in your field.",
+        "Important career skills include communication, problem-solving, critical thinking, leadership, teamwork, and technical proficiency in your area of interest.",
+        "You can find internship opportunities through career fairs, job boards, networking with professors, or reaching out directly to companies or organizations.",
+        "Your resume should include your contact information, education, relevant experience, skills, and accomplishments. Tailor it for each job application.",
+        "Effective networking involves attending industry events, connecting on LinkedIn, and reaching out to professionals for informational interviews or advice.",
+        "To ace a job interview, research the company, practice common interview questions, and be prepared to discuss how your skills and experiences align with the position."
+    ]
+},
+{
+    "tag": "study_techniques",
+    "patterns": [
+        "What are the best study techniques for mastering difficult subjects?",
+        "How can I improve my memory for studying?",
+        "What is active recall and how can I use it?",
+        "What are the benefits of spaced repetition?",
+        "How do I make the most of my study sessions?",
+        "What are some tips for effective note-taking?"
+    ],
+    "responses": [
+        "For mastering difficult subjects, use active recall, spaced repetition, and try to explain complex topics in simple terms to solidify understanding.",
+        "Improving memory for studying involves using mnemonic devices, visual aids, active recall, and regular review to reinforce retention.",
+        "Active recall involves testing yourself on the material rather than passively reading. This strengthens memory and helps identify knowledge gaps.",
+        "Spaced repetition is a technique where you review information at increasing intervals, which helps retain information over the long term.",
+        "To make the most of study sessions, eliminate distractions, set clear goals, take regular breaks, and focus on understanding rather than just memorizing.",
+        "Effective note-taking includes using the Cornell method, mind mapping, or outlining key points, and reviewing notes regularly for better retention."
+    ]
+},
+{
+  "tag": "homework_help",
+  "patterns": [
+      "Can you help me with my homework?",
+      "I don't understand this math problem, can you explain it?",
+      "How do I solve this equation?",
+      "Can you give me a step-by-step solution for this homework question?",
+      "I need help with my history assignment, can you assist?"
+  ],
+  "responses": [
+      "Sure! What specific problem do you need help with?",
+      "Please share the details of the problem you're working on, and I'll guide you through it.",
+      "Feel free to provide the question or topic you're struggling with, and I can explain it to you step-by-step.",
+      "What subject is the homework for? I'd be happy to assist you with it."
+  ]
+},
+{
+  "tag": "exam_preparation",
+  "patterns": [
+      "How do I prepare for exams?",
+      "What are the best study tips for exams?",
+      "How do I make an effective revision plan?",
+      "What should I focus on for my upcoming exam?",
+      "How do I manage my time while studying for exams?"
+  ],
+  "responses": [
+      "Start by reviewing your syllabus, identifying key topics, and practicing past exam questions.",
+      "The best study tips for exams include active recall, spaced repetition, and regular breaks.",
+      "Create a revision plan that covers all subjects, leaving extra time for difficult topics. Stick to a schedule and avoid cramming.",
+      "Focus on understanding core concepts, solving problems, and reviewing your notes regularly.",
+      "To manage time, use techniques like the Pomodoro method, set achievable goals, and prioritize important topics first."
+  ]
+},
+{
+  "tag": "study_groups",
+  "patterns": [
+      "How can I join a study group?",
+      "Are study groups useful?",
+      "How do I create a study group?",
+      "Can you help me find a study group for my class?",
+      "What are the benefits of studying in a group?"
+  ],
+  "responses": [
+      "You can join a study group by reaching out to classmates, professors, or checking social media and campus forums for study group invites.",
+      "Yes, study groups can be very useful for discussing topics in depth and learning from each other’s strengths.",
+      "To create a study group, reach out to classmates who are motivated to study together, choose a meeting time, and decide on study goals.",
+      "Many universities have online platforms where students can find or form study groups. Check your class forums or student communities.",
+      "Study groups provide opportunities for collaboration, deeper discussions, and sharing different perspectives on difficult subjects."
+  ]
+},
+{
+  "tag": "class_schedule",
+  "patterns": [
+      "When does my class start?",
+      "How can I find my class schedule?",
+      "What time is my next class?",
+      "How do I manage my class schedule effectively?",
+      "What should I do if I miss a class?"
+  ],
+  "responses": [
+      "You can find your class schedule by logging into your student portal or checking with your university’s academic office.",
+      "To manage your class schedule, organize your timetable, prioritize assignments, and ensure you have adequate study time.",
+      "Check your student portal or academic calendar for up-to-date information on your class timings.",
+      "If you miss a class, check for recorded lectures, ask a classmate for notes, or reach out to your professor for assistance."
+  ]
+},
+{
+  "tag": "scholarships",
+  "patterns": [
+      "How can I apply for scholarships?",
+      "What scholarships are available for students?",
+      "Are there any scholarships for international students?",
+      "How do I improve my chances of getting a scholarship?",
+      "Where can I find information about scholarships?"
+  ],
+  "responses": [
+      "You can apply for scholarships through your university’s scholarship portal or third-party websites that list available scholarships.",
+      "There are many scholarships available, including merit-based, need-based, and program-specific. Check with your school for specific options.",
+      "Yes, many scholarships are available for international students. Look for scholarships offered by universities or external organizations.",
+      "To improve your chances of getting a scholarship, make sure your application is thorough, submit all required documents, and write a compelling personal statement.",
+      "You can find scholarship information through your school’s financial aid office, online scholarship databases, or your professors."
+  ]
+},
+{
+  "tag": "student_discounts",
+  "patterns": [
+      "How can I get student discounts?",
+      "Are there any discounts for students on books or tech products?",
+      "How do I find discounts for students on software?",
+      "What are some of the best student discount programs?",
+      "Can I use student discounts on clothing or food?"
+  ],
+  "responses": [
+      "Many companies offer student discounts with a valid student ID. You can find discounts for technology, books, clothing, and food.",
+      "Check websites like UNiDAYS, Student Beans, or your school’s student portal for offers on tech products, software, and more.",
+      "Some tech companies offer student discounts for software like Microsoft, Adobe, and Apple. Always check their student discount page.",
+      "Some of the best student discount programs include those from Amazon, Spotify, Apple, and Adobe, where you can save on subscriptions and software.",
+      "Yes, many restaurants, clothing brands, and local shops offer student discounts. Always ask if they offer student pricing."
+  ]
+},
+{
+  "tag": "time_management",
+  "patterns": [
+      "How can I improve my time management skills?",
+      "What are the best time management techniques?",
+      "How do I stay organized with my assignments and deadlines?",
+      "How do I prioritize tasks effectively?",
+      "How can I avoid procrastination?"
+  ],
+  "responses": [
+      "To improve time management, start by setting clear goals, breaking tasks into smaller steps, and using tools like calendars or to-do lists.",
+      "Some popular time management techniques include the Pomodoro method, time blocking, and the Eisenhower matrix for prioritization.",
+      "To stay organized, use a planner or digital tools like Google Calendar, Trello, or Notion to track deadlines and assignments.",
+      "To prioritize tasks, focus on what’s most urgent and important, and allocate time accordingly. Use the Eisenhower matrix to categorize tasks.",
+      "Avoid procrastination by setting small, manageable goals, eliminating distractions, and using timers to keep you on track."
+  ]
+},
+{
+  "tag": "internship_opportunities",
+  "patterns": [
+      "How do I find internships?",
+      "Where can I apply for internships?",
+      "What skills do I need to apply for an internship?",
+      "How do I stand out in an internship application?",
+      "What should I include in my internship resume?"
+  ],
+  "responses": [
+      "You can find internships through university career services, job boards, LinkedIn, or directly contacting companies in your field.",
+      "Look for internship opportunities on websites like Internships.com, LinkedIn, Glassdoor, or your university’s career portal.",
+      "The skills needed for an internship depend on the field. Generally, communication, problem-solving, and technical proficiency are valuable skills.",
+      "To stand out, tailor your application to the position, highlight relevant skills and experiences, and demonstrate enthusiasm and initiative.",
+      "Your internship resume should highlight relevant coursework, skills, and any volunteer or part-time work that relates to the internship role."
+  ]
+},
+{
+  "tag": "graduation_requirements",
+  "patterns": [
+      "What are the requirements for graduation?",
+      "How can I check if I’ve met all graduation requirements?",
+      "When do I apply for graduation?",
+      "What documents do I need to graduate?",
+      "How do I know if I’ve completed my degree requirements?"
+  ],
+  "responses": [
+      "To meet graduation requirements, you must complete a specific number of credits, including required courses in your major and elective courses.",
+      "You can check your graduation status by logging into your student portal or meeting with your academic advisor to review your progress.",
+      "Check with your university’s registrar or student services for deadlines to apply for graduation and submit necessary documents.",
+      "Documents you may need for graduation include your application form, final transcript, degree audit, and any required fees or forms.",
+      "To ensure you've met all requirements, review your degree audit and consult with your academic advisor to confirm completion."
+  ]
+},
+{
+  "tag": "goodbye",
+  "patterns": [
+      "Goodbye",
+      "Bye",
+      "See you later",
+      "Take care",
+      "Catch you later"
+  ],
+  "responses": [
+      "Goodbye! Have a great day!",
+      "Take care! Talk to you soon!",
+      "See you later!",
+      "Bye! Hope to chat again soon!",
+      "Catch you later! Stay safe!"
+  ]
+},
+{
+  "tag": "thank_you",
+  "patterns": [
+      "Thank you",
+      "Thanks",
+      "Thank you so much",
+      "I appreciate it"
+  ],
+  "responses": [
+      "You're welcome!",
+      "Glad I could help!",
+      "Anytime! Feel free to ask if you need more assistance.",
+      "You're welcome! Let me know if you need anything else.",
+      "No problem! I'm happy to help."
+  ]
+},
+{
+  "tag": "name",
+  "patterns": [
+      "What is your name?",
+      "Who are you?",
+      "Tell me your name",
+      "Can you tell me your name?"
+  ],
+  "responses": [
+      "I'm a chatbot, here to assist you!",
+      "I’m your friendly assistant. You can call me Chatbot.",
+      "I don’t have a name, but I’m always happy to help you out.",
+      "I’m an AI created to assist you. You can just call me Chatbot."
+  ]
+},
+{
+  "tag": "help",
+  "patterns": [
+      "Can you help me?",
+      "I need assistance",
+      "Help me",
+      "What can you do?"
+  ],
+  "responses": [
+      "Sure! How can I assist you today?",
+      "What do you need help with?",
+      "I’m here to help! Please let me know what you need.",
+      "Tell me what you need help with, and I’ll do my best to assist you."
+  ]
+},
+{
+  "tag": "joke",
+  "patterns": [
+      "Tell me a joke",
+      "Make me laugh",
+      "Can you tell me something funny?",
+      "Tell me a funny story"
+  ],
+  "responses": [
+      "Why don’t skeletons fight each other? They don’t have the guts!",
+      "Why don’t eggs tell jokes? Because they might crack up!",
+      "Why did the math book look sad? Because it had too many problems.",
+      "I told my computer I needed a break, and now it’s frozen!"
+  ]
+},
+{
+  "tag": "weather",
+  "patterns": [
+      "What's the weather like?",
+      "Is it raining?",
+      "What's the forecast today?",
+      "Is it sunny outside?"
+  ],
+  "responses": [
+      "Sorry, I can’t check the weather right now. But you can check a weather website for the latest updates.",
+      "I’m not sure about the weather, but you can check your local weather app or website.",
+      "Check the weather forecast online for the most accurate information.",
+      "I recommend checking a weather app for the current weather conditions."
+  ]
+},
+{
+  "tag": "location",
+  "patterns": [
+      "Where are you?",
+      "Where is your location?",
+      "Where do you live?"
+  ],
+  "responses": [
+      "I’m a virtual assistant, so I don't have a physical location. I exist online!",
+      "I don’t have a physical place. I exist wherever you need me to be.",
+      "I’m here to help you from the cloud!"
+  ]
+},
+{
+  "tag": "current_time",
+  "patterns": [
+      "What time is it?",
+      "Can you tell me the time?",
+      "What’s the current time?"
+  ],
+  "responses": [
+      "I’m sorry, I can’t tell the time right now. But you can easily check it on your device.",
+      "I can't check the time for you, but you can look at your clock or phone.",
+      "I recommend checking your phone or computer for the time."
+  ]
+},
+{
+  "tag": "about_you",
+  "patterns": [
+      "What can you do?",
+      "Tell me more about you",
+      "What are your capabilities?",
+      "What do you know?"
+  ],
+  "responses": [
+      "I can assist you with answering questions, telling jokes, providing weather updates, and more!",
+      "I’m a chatbot designed to help you with anything you need. Ask me anything!",
+      "I can help you with simple tasks, answer questions, tell jokes, and keep you company.",
+      "I’m here to help with general queries, offer assistance, and just chat!"
+  ]
+}
+]
